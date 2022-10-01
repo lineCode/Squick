@@ -2,7 +2,11 @@
 
 ## Squick是什么?
 
-Squick是一款可快速开发拓展的游戏服务器开发框架，轻量，插件化，易拓展，支持lua脚本。目前正在极速开发Unity客户端SDK中，客户端sdk: https://github.com/i0gan/Uquick
+Squick是一款可快速开发拓展的游戏服务器开发框架，轻量，插件化，易拓展，支持lua脚本。目前正在极速开发Unity客户端SDK中，客户端Demo: [Uquick](https://github.com/i0gan/Uquick)
+
+
+
+**讨论QQ群：729054809**
 
 ## 特性
 - 易使用，采用。
@@ -124,5 +128,4 @@ cd ./build
 - lua
 - navigation
 - nlohmann
-
 
