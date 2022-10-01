@@ -1,0 +1,14 @@
+<XML>    
+    <MasterServer>
+		<Plugin Name="core/net" />
+		<Plugin Name="core/kernel" />
+		<Plugin Name="core/config" />
+		<Plugin Name="extend/master/logic" />
+		<Plugin Name="extend/master/server" />
+		<Plugin Name="extend/master/http_server" />
+
+		<Plugin Name="core/log" />	
+		<Plugin Name="core/actor" />
+        
+    </MasterServer>
+</XML>

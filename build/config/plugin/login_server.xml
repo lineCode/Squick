@@ -1,0 +1,19 @@
+
+<XML>
+    <LoginServer>
+		<Plugin Name="core/net" />
+		<Plugin Name="core/kernel" />
+		<Plugin Name="core/config" />
+		<Plugin Name="extend/login/server" />
+		<Plugin Name="extend/login/client" />
+		<Plugin Name="extend/login/logic" />
+		<Plugin Name="extend/login/http_server" />
+
+		<Plugin Name="core/lua" />
+		<Plugin Name="core/log" />	
+		<Plugin Name="extend/db/logic" />
+		<Plugin Name="core/nosql" />	
+		<Plugin Name="core/actor" />
+	</LoginServer>
+
+</XML>

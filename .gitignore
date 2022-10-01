@@ -1,0 +1,80 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+*.zip
+*.gz
+*.tar
+
+# Executables
+*.exe
+*.out
+*.app
+*.dll
+
+# Visaul Studio
+*.iobj
+*.ipdb
+*.idb
+*.pdb
+*.tlog
+*.log
+*.ilk
+*.user
+*.exp
+*.vc.db
+*.*.manifest
+*.cache
+*.bsc
+
+# Codeblocks
+*.layout
+*.depend
+
+# CMake
+#[cC][mM]ake[lL]ists.txt
+
+
+/build/common/*
+/build/redis*
+/build/cache/
+/build/config/tools/file_process
+#/build/config/ini/
+/build/config/struct/
+/build/config/proto/
+
+/third_party/build
+/third_party/lib
+/third_party/lua-5.3.6/src/luac
+/third_party/lua-5.3.6/src/lua
+
+/.idea/*
+
+/Temp
+/temp
+/*.opendb
+
+/build/server
+
+/src/squick/struct/protoc
+
+
+
+/.vs/
+
+# Editor
+.idea
+.vscode
+push.sh
+

@@ -1,0 +1,1 @@
+add_subdirectory(t1_hello_plugin)
