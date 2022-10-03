@@ -9,6 +9,7 @@ Squick是一款可快速开发拓展的游戏服务器开发框架，轻量，�
 **讨论QQ群：729054809**
 
 ## 特性
+
 - 易使用，采用。
 - 采用动态连链接库方式动态加载插件，开发拓展插件，让开发服务器变成开发插件。 
 - 遵守谷歌C++编程规范
@@ -18,6 +19,14 @@ Squick是一款可快速开发拓展的游戏服务器开发框架，轻量，�
 - 支持Lua脚本开发
 - 支持部分不用停服即可热更
 - 默认拥有服务器插件：代理服务器、世界服务器、导航系统、数据库服务器、中心服务器、登录服务器
+
+## 将来要做
+
+- 增加KCP协议的支持
+- 拓展lua脚本库
+- 增加世界服务器的逻辑判断
+- 接入腾讯云SDK
+- 增加后台管理插件
 
 
 
@@ -129,3 +138,17 @@ cd ./build
 - navigation
 - nlohmann
 
+
+
+## 本项目开发环境
+
+### Arch linux
+    gcc/g++ version 12.2.0 (GCC)
+    cmake version 3.24.2
+    Docker version 20.10.18, build b40c2f6b5d
+    git version 2.37.3
+    /lib/libc.so.6: GNU C Library (GNU libc) stable release version 2.36.
+
+### Ubuntu 20.04
+
+    
